@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\drone_control_system.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\drone_control_system.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\04-telemetria\\TextFile04.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\level-0-learning\\04-telemetria\\TextFile04.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22723700-0D9E-46E5-B3EF-90DE0412710F}|drone-control-flask-system\\drone-control-flask-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-flask-system\\drone_control_flask_system\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{22723700-0D9E-46E5-B3EF-90DE0412710F}|drone-control-flask-system\\drone-control-flask-system.pyproj|solutionrelative:drone-control-flask-system\\drone_control_flask_system\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\03-api\\TextFile03.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\level-0-learning\\03-api\\TextFile03.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\01-mavlink\\TextFile01.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\level-0-learning\\01-mavlink\\TextFile01.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\02-sitl\\TextFile02.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\level-0-learning\\02-sitl\\TextFile02.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\level-0-learning\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\drone_control_system.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D846D6DE-7E36-45A8-877F-1C6E40B42392}|drone-control-system\\drone-control-system.pyproj|solutionrelative:drone-control-system\\drone_control_system.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "drone_control_system.py",
-              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\drone_control_system.py",
-              "RelativeDocumentMoniker": "drone-control-system\\drone_control_system.py",
-              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\drone_control_system.py",
-              "RelativeToolTip": "drone-control-system\\drone_control_system.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2026-03-08T01:18:44.94Z",
+              "Title": "TextFile04.txt",
+              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\04-telemetria\\TextFile04.txt",
+              "RelativeDocumentMoniker": "drone-control-system\\level-0-learning\\04-telemetria\\TextFile04.txt",
+              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\04-telemetria\\TextFile04.txt",
+              "RelativeToolTip": "drone-control-system\\level-0-learning\\04-telemetria\\TextFile04.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-08T04:32:29.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "views.py",
-              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-flask-system\\drone_control_flask_system\\views.py",
-              "RelativeDocumentMoniker": "drone-control-flask-system\\drone_control_flask_system\\views.py",
-              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-flask-system\\drone_control_flask_system\\views.py",
-              "RelativeToolTip": "drone-control-flask-system\\drone_control_flask_system\\views.py",
+              "Title": "TextFile03.txt",
+              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\03-api\\TextFile03.txt",
+              "RelativeDocumentMoniker": "drone-control-system\\level-0-learning\\03-api\\TextFile03.txt",
+              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\03-api\\TextFile03.txt",
+              "RelativeToolTip": "drone-control-system\\level-0-learning\\03-api\\TextFile03.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-08T04:32:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextFile02.txt",
+              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\02-sitl\\TextFile02.txt",
+              "RelativeDocumentMoniker": "drone-control-system\\level-0-learning\\02-sitl\\TextFile02.txt",
+              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\02-sitl\\TextFile02.txt",
+              "RelativeToolTip": "drone-control-system\\level-0-learning\\02-sitl\\TextFile02.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-08T04:31:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFile01.txt",
+              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\01-mavlink\\TextFile01.txt",
+              "RelativeDocumentMoniker": "drone-control-system\\level-0-learning\\01-mavlink\\TextFile01.txt",
+              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\01-mavlink\\TextFile01.txt",
+              "RelativeToolTip": "drone-control-system\\level-0-learning\\01-mavlink\\TextFile01.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-08T04:29:35.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\readme.md",
+              "RelativeDocumentMoniker": "drone-control-system\\level-0-learning\\readme.md",
+              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\level-0-learning\\readme.md",
+              "RelativeToolTip": "drone-control-system\\level-0-learning\\readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-08T04:14:10.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\.gitignore",
+              "RelativeDocumentMoniker": "drone-control-system\\.gitignore",
+              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\.gitignore",
+              "RelativeToolTip": "drone-control-system\\.gitignore",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDcAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-03-08T03:13:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "drone_control_system.py",
+              "DocumentMoniker": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\drone_control_system.py",
+              "RelativeDocumentMoniker": "drone-control-system\\drone_control_system.py",
+              "ToolTip": "D:\\PrjSC#\\DronNQN\\drone-control-flask-system\\drone-control-system\\drone_control_system.py",
+              "RelativeToolTip": "drone-control-system\\drone_control_system.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2026-03-08T01:17:10.521Z",
+              "WhenOpened": "2026-03-08T01:18:44.94Z",
               "EditorCaption": ""
             }
           ]

@@ -45,6 +45,11 @@
     <Content Include="docs\nqn_res_550_ ANAC.pdf" />
     <Content Include="docs\nqn_RTCA_DO_178B.pdf" />
     <Content Include="docs\TASKS.md" />
+    <Content Include="level-0-learning\01-mavlink\TextFile01.txt" />
+    <Content Include="level-0-learning\02-sitl\TextFile02.txt" />
+    <Content Include="level-0-learning\03-api\TextFile03.txt" />
+    <Content Include="level-0-learning\04-telemetria\TextFile04.txt" />
+    <Content Include="level-0-learning\readme.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
